@@ -10,3 +10,7 @@ schedule.js
     -scheduleCourse.js
     -gradient.js
     -progressTracker.js
+
+1. Build grid 
+2. Build schedule and library
+3. Lay them out
